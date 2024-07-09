@@ -18,4 +18,4 @@ You can view the live demo of the website here: [Landing-Page](https://radhikaji
 - **CSS**: Styling of the website for a visually appealing layout.
 - **JavaScript**: Interactivity and dynamic content.
 
-## File Structure
+
